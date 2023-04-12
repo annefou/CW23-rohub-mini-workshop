@@ -1,17 +1,14 @@
-# Reproducibility Challenge 2023
+#  Research Object Hub (RoHub) for FAIR research data management and Open Science in practice
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repository contains the documentation and jupyter notebooks used for delivering [the 2023 Climate Informatics Reproducibility Challenge](https://cambridge-iccs.github.io/climate-informatics-2023/reproducibility-challenge).
-
-<img src="challenge/figures/pangeo_logo.png" width="180" align="Left" />
-<img src="challenge/figures/logo-c-scale-vertical-blue.png" width="180" align="Right" />
+This repository contains the documentation and jupyter notebooks used for delivering [the CW23 mini-workshop on "Research Object Hub (RoHub) for FAIR research data management and Open Science in practice"](https://annefou.github.io/CW23-rohub-mini-workshop).
 
 <br>
 
-The content of this repository (folder `challenge`) is rendered as an online document using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html). **You can access it [here](https://eds-book.github.io/reproducibility-challenge-2023)**.
+The content of this repository (folder `mini-workshop`) is rendered as an online document using [Jupyter Book](https://jupyterbook.org/en/stable/intro.html). **You can access it [here](https://annefou.github.io/CW23-rohub-mini-workshop)**.
 
 
 ## Contributors ✨
