@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: welcome
+parts:
+- caption: About
+  chapters:
+  - file: timeline
+    title: Timeline
+
+- caption: Setup
+  chapters:
+  - file: setup
+
+- caption: Schedule
+  chapters:
+  - file: introduction
+  - file: first_ro
+  - file: reuse_workflow
+  - file: beyond

@@ -1,0 +1,13 @@
+name: challenge
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter-book
+  - ghp-import
+  - pip
+  - pip:
+    - sphinx-exercise
+    - jupytext
+    - nbgitpuller
